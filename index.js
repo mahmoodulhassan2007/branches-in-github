@@ -10,3 +10,7 @@ for(let i=1; i<=10; i++){
 
 let number = 12345643
 console.log(number);
+
+
+let b = null;
+console.log(b);
