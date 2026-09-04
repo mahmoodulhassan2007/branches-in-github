@@ -14,3 +14,13 @@ console.log(number);
 
 let b = null;
 console.log(b);
+
+
+let d = 39;
+if (d > 20) {
+    console.log("this is a young boy");
+    
+}else{
+    console.log("this is a not young man");
+    
+}
